@@ -24,4 +24,5 @@ Your repository must be a public repository.
   - Click on `Save`.
   - Select the `main` function in top menu and click `Execute`.
     - Check there is no errors and that the exexution finishes successfully.
-- Finally you can create a chart to have a visual on Pulls count or daily pulls count.
+    - If you added the daily pulls count column, click another time to have check the daily pulls count is working correctly.
+- Finally you can create a chart to see visually the pulls count or daily pulls count.
