@@ -15,6 +15,7 @@ Your repository must be a public repository.
 - Create the script :
   - Go to `Extensions` / `Apps script`.
   - Replace the content of the Apps script file `Code.gs` by the code of this repository file `Code.gs`.
+- Execute the script daily :
   - In the left menu select `Triggers` / `Add a trigger` and fill the form :
     - Function to execute : `main`.
     - Event source : `Time trigger`.
